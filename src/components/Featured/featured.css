@@ -1,0 +1,140 @@
+.content-container-featured {
+    width: 100%;
+    height: 825.66px;
+    background-color: #171717;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tex-container-featured {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lable-featured-container {
+    margin-top: 91px;
+    font-family: SpaceGrotesk-regular;
+    font-weight: 300;
+    font-size: 65px;
+    color: #fff;
+}
+
+.view-all-container-featured {
+    margin-top: 139px;
+    color: #7DFB5D;
+    font-family: BaiJamjuree-regular;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.icon-view-all-featurde {
+    margin-left: 4.44px;
+}
+.gg{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.content-offer-product-featured {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 494.66px;
+    margin-top: 57px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.container-offer-product-featured {
+    width: 313px;
+    height: 494.66px;
+    border-radius: 20px;
+    background-color: #E5E5E5;
+    margin-right: 19px;
+}
+
+.container-img-product {
+    height: 305.47px;
+    position: relative;
+}
+
+.container-ticket-off {
+    width: 100%;
+    position: absolute;
+    left: 25.03px;
+    top: 29.67px;
+}
+
+.tex-container-offer-product {
+    height: 189.4px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.name-product-featured {
+    font-family: SpaceGrotesk-medium;
+    font-size: 36px;
+    font-weight: 300;
+}
+.content-container-price{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 11px;
+    font-family: BaiJamjuree-regular;
+    font-weight: 300;
+    font-size: 16px;
+}
+.current-price{
+    position: relative;
+    color: #ACACAC;
+    font-family: BaiJamjuree-regular;
+    font-weight: 300;
+    font-size: 16px;
+}
+.current-price::after{
+    content: "";
+    width: 100%;
+    height: 2px;
+    background: #ACACAC;
+    position: absolute;
+    top: 9px;
+    left: 0;
+  } 
+.price-offer-product {
+    font-weight: 600;
+   margin-left: 4.47px;
+}
+
+.btn-off-product-featured {
+    width: 138.2px;
+    height: 35.19px;
+    border: 0;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 16px;
+    background-color: #3333F5;
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: BaiJamjuree-regular;
+    font-weight: 300;
+    font-size: 16px;
+
+}
+.icon-sell-product-btn{
+margin-left: 4.8px;
+}

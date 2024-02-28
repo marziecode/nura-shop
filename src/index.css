@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'SpaceGrotesk-regular';
+  src: url(./assets/fonts/SpaceGrotesk-Regular-BF65712b4fdc934.ttf);
+}
+
+@font-face {
+  font-family: 'SpaceGrotesk-medium';
+  src: url(./assets/fonts/SpaceGrotesk-Medium-BF65712b4fd0ef9.ttf);
+}
+
+@font-face {
+  font-family: 'BaiJamjuree-regular';
+  src: url(./assets/fonts/BaiJamjuree-Regular\ \(1\).ttf);
+}
+@font-face {
+  font-family: 'BaiJamjuree-semibold';
+  src: url(./assets/fonts/BaiJamjuree-SemiBold.ttf);
+}
+h1,h2,h3,h4,h5,h6,p{
+  margin: 0;
+}
