@@ -7,12 +7,12 @@
     background: linear-gradient(to bottom right, rgba(51, 51, 245, 1), rgba(51, 129, 245, 1), rgba(51, 129, 245, 1));
 }
 
-.container-img-headphone {
+.container-img-headphone{
     margin-left: 57.59px
 }
 
 .img-headphone {
-    /* position: absolute; */
+    position: absolute;
 }
 
 .text-content-container-headphone{
@@ -49,5 +49,4 @@
 }
 .highlight-text-headphone{
     color: #7DFB5D;
-
 }
