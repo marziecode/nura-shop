@@ -1,0 +1,53 @@
+.content-container-headphone {
+    width: 100%;
+    height: 983.56px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background: linear-gradient(to bottom right, rgba(51, 51, 245, 1), rgba(51, 129, 245, 1), rgba(51, 129, 245, 1));
+}
+
+.container-img-headphone {
+    margin-left: 57.59px
+}
+
+.img-headphone {
+    /* position: absolute; */
+}
+
+.text-content-container-headphone{
+    width: 63%;
+    height: 983.56px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.container-text-headphone {
+    width: 100%;
+    height: 983.56px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.headint-tex-container-headphone {
+    font-family: SpaceGrotesk-regular;
+    font-size: 94px;
+    font-weight: 300;
+    color: #fff;
+    margin-top: 187px;
+}
+
+.text-headphone {
+    font-family: SpaceGrotesk-regular;
+    font-size: 36px;
+    font-weight: 300;
+    margin-bottom: 19.94px;
+    color: #fff;
+}
+.highlight-text-headphone{
+    color: #7DFB5D;
+
+}

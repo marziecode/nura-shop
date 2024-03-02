@@ -8,7 +8,7 @@ import img3 from '../../assets/productImage/img-3.svg'
 import img4 from '../../assets/productImage/img-4.svg'
 function Featured() {
     return <div className='content-container-featured'>
-        <div className='gg'>
+        <div className='content-container-main-featured'>
 
             <div className='tex-container-featured'>
                 <h1 className='lable-featured-container'>Featurd discount</h1>

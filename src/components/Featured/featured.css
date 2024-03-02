@@ -32,12 +32,14 @@
 .icon-view-all-featurde {
     margin-left: 4.44px;
 }
-.gg{
+
+.content-container-main-featured{
     width: 80%;
     height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
+
 
 }
 
@@ -46,10 +48,10 @@
     justify-content: flex-start;
     align-items: center;
     width: 100%;
-    height: 494.66px;
+    height: 512px;
     margin-top: 57px;
-    overflow-y: auto;
-    overflow-x: hidden;
+    overflow-y: hidden;
+    overflow-x: auto;
 }
 
 .container-offer-product-featured {
@@ -87,7 +89,8 @@
     font-size: 36px;
     font-weight: 300;
 }
-.content-container-price{
+
+.content-container-price {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -97,14 +100,16 @@
     font-weight: 300;
     font-size: 16px;
 }
-.current-price{
+
+.current-price {
     position: relative;
     color: #ACACAC;
     font-family: BaiJamjuree-regular;
     font-weight: 300;
     font-size: 16px;
 }
-.current-price::after{
+
+.current-price::after {
     content: "";
     width: 100%;
     height: 2px;
@@ -112,10 +117,11 @@
     position: absolute;
     top: 9px;
     left: 0;
-  } 
+}
+
 .price-offer-product {
     font-weight: 600;
-   margin-left: 4.47px;
+    margin-left: 4.47px;
 }
 
 .btn-off-product-featured {
@@ -135,6 +141,7 @@
     font-size: 16px;
 
 }
-.icon-sell-product-btn{
-margin-left: 4.8px;
+
+.icon-sell-product-btn {
+    margin-left: 4.8px;
 }
