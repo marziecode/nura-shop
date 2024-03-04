@@ -1,0 +1,53 @@
+.content-container-sound {
+    width: 100%;
+    height: 721.78px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+.sount-img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.text-contaoner-sound {
+    width: 882.34px;
+    height: 721.78px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    left: 500px;
+    /* background-color: aqua; */
+
+}
+
+.lable-text-containet-sound {
+    font-family: SpaceGrotesk-regular;
+    font-size: 79px;
+    font-weight: 300;
+    color: #fff;
+}
+.text-sound{
+    font-family: SpaceGrotesk-regular;
+    font-size: 33px;
+    font-weight: 300;
+    color: #fff;
+    margin-top: 20px;
+    text-align: center;
+}
+.button-sound{
+    margin-top: 80.89px;
+    width: 449.34px;
+    height: 64px;
+    background-color: #3333F5;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+    font-family: Inter-regular;
+    font-size: 34px;
+    font-weight: 100;
+
+}

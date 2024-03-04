@@ -30,6 +30,10 @@ code {
   font-family: 'BaiJamjuree-semibold';
   src: url(./assets/fonts/BaiJamjuree-SemiBold.ttf);
 }
+@font-face {
+  font-family: 'Inter-regular';
+  src: url(./assets/fonts/Inter-Regular.otf);
+}
 h1,h2,h3,h4,h5,h6,p{
   margin: 0;
 }
