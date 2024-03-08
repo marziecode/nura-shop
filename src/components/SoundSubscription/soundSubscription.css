@@ -1,9 +1,12 @@
 .content-container-sound {
     width: 100%;
-    height: 721.78px;
+    height: 1000px;
     display: flex;
-    justify-self: center;
+    justify-self: flex-start;
     align-items: center;
+    background-image: url(../../assets/sound-img.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .sount-img {
