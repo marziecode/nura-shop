@@ -1,0 +1,24 @@
+.content-container-AsFeatured {
+    width: 100%;
+    height: 827.69px;
+    background-color: #272727;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 124px;
+}
+.lable-AsFeatured{
+color: #7DFB5D;
+font-family: SpaceGrotesk-regular;
+font-weight: 300;
+font-size: 24px;
+margin-bottom: 47px;
+}
+.container-logo-AsFeatured{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}

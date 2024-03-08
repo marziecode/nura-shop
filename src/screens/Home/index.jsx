@@ -5,7 +5,8 @@ import Featured from '../../components/Featured/Featured'
 import Headphone from '../../components/Headphone/Headphone'
 import PlayDevice from '../../components/PlayDevice/PlayDevice'
 import SoundSubscription from '../../components/SoundSubscription/SoundSubscription'
-
+import Footer from '../../components/Footer/Footer'
+import AsFeatured from '../../components/AsFeatured/AsFeatured'
 function Home() {
     return (
         <HomeLayouts>
@@ -13,7 +14,9 @@ function Home() {
             <Featured />
             <Headphone />
             <PlayDevice />
-            <SoundSubscription/>
+            <SoundSubscription />
+            <AsFeatured />
+            <Footer />
         </HomeLayouts>
     )
 }
