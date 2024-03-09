@@ -4,18 +4,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(../../assets/plyDivice.svg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .container-mask-img-playDevice {
     width: 100%;
     height: 100%;
-    background-color: #171717;
-    background-image: url(../../assets/playDevice-img.svg);
-    background-repeat: no-repeat;
-    background-position: center;
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding-right: 300px;
+    margin-right: 300px;
 }
 .text-container-playDevice {
     width: 656px;

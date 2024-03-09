@@ -1,5 +1,4 @@
 import './playDevice.css'
-import playDeviceIMG from '../../assets/playDevice-img.svg'
 function PlayDevice() {
     return <div className='contant-container-playDevice'>
         <div className='container-mask-img-playDevice'>
